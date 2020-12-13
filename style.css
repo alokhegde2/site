@@ -1,0 +1,39 @@
+body{
+	font-family: 'Roboto Mono', monospace;
+}
+
+.container{
+	margin-top: 20px; 
+}
+
+.heading{
+	text-align: center;
+	font-family: 'Roboto Mono', monospace;
+}
+
+p{
+	font-family: 'Roboto Mono', monospace;
+}
+
+.p1{
+	padding-top: 40px;
+}
+
+h6{
+	font-family: 'Roboto Mono', monospace;
+	padding-top: 30px;
+	font-size: 1em;
+	text-decoration: underline;
+}
+
+a{
+	text-decoration: underline !important;
+	color: blue !important;
+}
+
+.span{
+	font-family: 'Roboto Mono', monospace;
+	text-align: center !important;
+	align-items: center;
+	padding-top: 60px !important;
+}
